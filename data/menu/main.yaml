@@ -1,0 +1,10 @@
+---
+main:
+  - name: Bux
+    ref: /bux
+    # icon: "gdoc_notification"
+    sub:
+      - name: Bux Earning
+        ref: /bux
+        anchor: bux-earning
+# TODO
