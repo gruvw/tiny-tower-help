@@ -1,3 +1,8 @@
+---
+title: Online
+geekdocCollapseSection: true
+---
+
 ## Friends
 
 * Rename your lobby to a name you want people to know you by, ideally your TT Discord name.

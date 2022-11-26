@@ -1,3 +1,8 @@
+---
+title: Side
+geekdocCollapseSection: true
+---
+
 ## Airport
 
 Bitish Airways

@@ -1,3 +1,8 @@
+---
+title: Purchases
+geekdocCollapseSection: true
+---
+
 ## VIP Package
 
 See also: ?tthelp vip50

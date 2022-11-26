@@ -1,3 +1,8 @@
+---
+title: Informations
+geekdocCollapseSection: true
+---
+
 ## Elevator
 
 Base Coins earned by delivering bits in Your tower: `F * (1 + G) * Y + 50`  
@@ -41,7 +46,7 @@ Gold Bits:
 Even a dream worker with skills that add up to 16 will pay more rent than a gold bit that isn't working in their dream job.
 
 The best of all is to have Gold Bits working in their Dream Jobs.  
-You can upskill existing bits through a [gfarm](TODO/online#gfarm) and/or request bits for your existing stores through requests.
+You can upskill existing bits through a [gfarm](/online/#gold-farm) and/or request bits for your existing stores through requests.
 All the bits sent out from requests are already Gold Bits.
 
 ## Tech Tree

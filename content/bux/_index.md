@@ -1,3 +1,8 @@
+---
+title: Bux
+geekdocCollapseSection: true
+---
+
 * Dream Workers only pay their 5 bux to the first person who hired them in that job.
 * Once you get to 19, 29, 39 etc. floors, your Bux for missions and deliveries go up, maxing out when you reach 89 floors.
 * Visit friends who are active and return visits.
@@ -22,7 +27,7 @@ In order of what are considered to be the most efficient ways of getting bux:
 1. Piggy Bank
 2. In app purchase of Bux
 3. Friends visiting you.
-4. Missions (see [Bux Farming](TODO/bux#bux-farming))
+4. Missions (see [Bux Farming](/bux/#bux-farming))
 5. Fireworks (especially VIP)
 6. Melvyn drops
 7. Tutorial
@@ -92,7 +97,7 @@ For all play styles, it is highly recommend you spend bux in this order:
 4. Raffle (if not rebuilding)
 5. Cosmetics (if you're certain you'll never buy VIP)
 
-Never upgrade bitizens' skills with "Skill Up" (see [Gold Farm](TODO/online#gold-farm) instead), instant move in a bitizen, or rush anything.
+Never upgrade bitizens' skills with "Skill Up" (see [Gold Farm](/online/#gold-farm) instead), instant move in a bitizen, or rush anything.
 
 ## Rush
 
@@ -101,7 +106,7 @@ Never upgrade bitizens' skills with "Skill Up" (see [Gold Farm](TODO/online#gold
 Construction can be rushed with bux.  
 The cost is 6 bux/10 minutes (smallest time block) and is capped at 1000 bux.
 
-Note you can still rebuild without waiting for construction to finish (see [Rebuilding](TODO/gold-tickets#rebuilding) for more information).
+Note you can still rebuild without waiting for construction to finish (see [Rebuilding](/gold-tickets#rebuilding) for more information).
 
 ### Customer Rush
 

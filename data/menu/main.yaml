@@ -2,6 +2,7 @@
 main:
   - name: Getting started
     ref: /getting-started
+    collapse: true
     sub:
       - name: Terminology
         ref: /getting-started
@@ -87,7 +88,7 @@ main:
         anchor: vip-types
       - name: Delivery
         ref: /vips
-        anchor: delivery-vips
+        anchor: delivery-vip
       - name: Big Spender
         ref: /vips
         anchor: big-spender-vip

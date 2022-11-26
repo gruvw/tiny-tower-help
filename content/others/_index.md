@@ -1,3 +1,8 @@
+---
+title: Others
+geekdocCollapseSection: true
+---
+
 ## Multiple Towers
 
 There are different ways to manage multiple towers depending on the device you are using.

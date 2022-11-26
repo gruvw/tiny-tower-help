@@ -1,3 +1,8 @@
+---
+title: Floors
+geekdocCollapseSection: true
+---
+
 ## Residential Apartments
 
 * The standard apartment houses 5 bits.
@@ -8,7 +13,7 @@
 
 ### Bits & Gold Apartments
 
-(see also [dream jobs](TODO/informations#dream-jobs))
+(see also [Dream Jobs](/informations/#dream-jobs-vs-gold-bits))
 
 1. All bits (including gifted bits) that are in a non-gold apartment before the apartment is upgraded will become gold bits after the floor is upgraded by a GT.
 2. Other than gifted bits, all bits that move in after the apartment has been upgraded by a GT will be a gold bit.
@@ -17,7 +22,7 @@
 ## Top Floors
 
 Here is a list of floors in order according to their stock amounts: <https://tinyurl.com/y3p8g3pw>  
-Some players refer to this list to see which of their existing floors has the most stock and will use it for the [soda trick](TODO/floors#soda-brewery) in place of the Soda Brewery.  
+Some players refer to this list to see which of their existing floors has the most stock and will use it for the [soda trick](/floors#soda-brewery) in place of the Soda Brewery.  
 Players with VIP may want to refer to this list to decide which floor to build next.
 
 The first top ten floors are:
@@ -35,7 +40,7 @@ The first top ten floors are:
 
 ### Soda Brewery
 
-See also: [Big spender](TODO/vips#big-spender)
+See also: [Big Spender VIP](/vips#big-spender-vip)
 
 The best store for Big Spender VIPs is Soda Brewery, assuming it is at the same (or higher) Level as all your other stores.  
 If you don't have Soda Brewery and it would take too long to build it next, check the Floor Capacities tab in the spreadsheet, find out which of your existing stores is highest up on the list and use that in place of Soda Brewery.
@@ -62,11 +67,11 @@ Immediately after completing the tutorial:
 * Build a random creative.
 Repeat the above two steps until you get the Soda Brewery. If you do this before building floor 4, the construction time will be instant.
 
-If you already have a Gold Ticket, you may want to do the Full Stock Bonus version of [coinfarming](TODO/coins#coin-farming) while you wait for the Soda Brewery to show up.
+If you already have a Gold Ticket, you may want to do the Full Stock Bonus version of [coinfarming](/coins#coin-farming) while you wait for the Soda Brewery to show up.
 
 ### Cake Studio
 
-See also: [Delivery](TODO/vips#delivery)
+See also: [Delivery VIP](/vips#delivery-vip)
 
 The best store for Delivery VIPs is Cake Studio, assuming it is at the same (or higher) Level as all your other stores.  
 If your Cake Studio is at Level 10 or has a Gold Ticket on it, has 3 Dream Job workers, and already has some 2-coin and 3-coin items in stock, you can receive a Fully Stock Bonus of up to 50,802 coins when you send a Delivery VIP there (pre-tech tree).  

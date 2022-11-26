@@ -1,3 +1,8 @@
+---
+title: Coins
+geekdocCollapseSection: true
+---
+
 * Elevator rides in your tower return coins based on this formula: `F * (1 + G) * Y + 50` where `Y = your elevator speed (FPS)`, `F = floor reached`, and `G = total GTs`.
 * Elevator rides when you visit a friend's tower return coins based on this formula: `F * T + 50` where `T = their elevator speed (FPS)` and `F = floor reached`.
 * Each bit in its dream job doubles the stock quantity for its product and pays triple rent.

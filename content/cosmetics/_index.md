@@ -1,3 +1,8 @@
+---
+title: Cosmetics
+geekdocCollapseSection: true
+---
+
 ## Costumes
 
 Costumes are a great way to personalize your tower.

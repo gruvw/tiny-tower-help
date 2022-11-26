@@ -1,3 +1,8 @@
+---
+title: Tricks
+geekdocCollapseSection: true
+---
+
 ## Double Rent
 
 :rent: This is the rent icon. When you are ready to collect rent:

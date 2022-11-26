@@ -1,3 +1,8 @@
+---
+title: Getting Started
+geekdocCollapseSection: true
+---
+
 ## Terminology
 
 These are the terms we use:
@@ -16,19 +21,19 @@ These are the terms we use:
 
 ## Basic Tips
 
-### [Rebuilding](TODO/golden-tickets#rebuilding)
+### [Rebuilding](/gold-tickets#rebuilding)
 
 Is it worth to rebuild?  
 Yes, but it depends on your play style.  
 It is highly recommended to rebuild at least 2 or 3 times even if you aim to have all the floors.
 
-### [Golden Tickets](TODO/golden-tickets)
+### [Gold Tickets](/gold-tickets)
 
 Where should I spend my golden tickets?  
-The first on Soda Brewery, the second on Cake Studio and the third onwards could be on your next best commercial floor (see [Top Floors](TODO/floors#top-floors)).  
-Why? Because they have the most stock at level 10 and you can do the [Soda Brewery](TODO/floors#soda-brewery) Combo and [Cake Studio](TODO/floors#cake-studio) Combo, and gold bits (skills of 99999) are easily obtained through requests or the spreadsheet <https://tinyurl.com/grd9wyl>.
+The first on Soda Brewery, the second on Cake Studio and the third onwards could be on your next best commercial floor (see [Top Floors](/floors#top-floors)).  
+Why? Because they have the most stock at level 10 and you can do the [Soda Brewery](/floors#soda-brewery) Combo and [Cake Studio](/floors#cake-studio) Combo, and gold bits (skills of 99999) are easily obtained through requests or the spreadsheet <https://tinyurl.com/grd9wyl>.
 
-### [VIP](TODO/purchases#VIP-Package)
+### [VIP](/purchases#VIP-Package)
 
 Is the VIP Package worth?  
 Yes, when it's in 50% sale. It has tremendous advantages and you help NimbleBit, but this is up to you, a very personal choice.
@@ -43,10 +48,10 @@ In the `#requests` channel on the [Tiny Tower Discord server](https://tinyurl.co
 Considering 0 golden tickets.
 
 1. Register your tower through the game's cloud menu so you don't lose progress.
-2. Do the [double rent trick](TODO/tricks#double-rent).
+2. Do the [double rent trick](/tricks/#double-rent).
 3. Make sure all stores have 3 gold dream workers, and all apartments are full of gold bits working in their dream job.
 Try to stick to having 3 apartments for every 5 stores (pre Tech Tree Shared Living), go to requests to get what you need, and evict non gold bits as you get the new bits.
-4. Focus on investing bux into your [elevator](TODO/informations#elevator).
+4. Focus on investing bux into your [elevator](/informations/#elevator).
 Go ahead and spend some bux on increasing store levels so they don't run out so fast, but your elevator speed should be your priority.
 5. Visit friends! Go to the `#the_lobby` channel on the [Tiny Tower Discord server](https://tinyurl.com/tinytowerdiscord) to collect codes of active players, add them to your friend list and visit them.
 Most will visit back. And each day they visit you back and you ride them up your elevator, you get 10 bux.
@@ -65,7 +70,7 @@ Don't worry about deleting any stores you already have so you can replace them w
 
 ### VIP
 
-Build stores according to the [top floors list](TODO/floors#top-floors).
+Build stores according to the [top floors list](/floors#top-floors).
 These floors hold the highest amount of stock, which means they'll sell more stock while you're away from the game without having to upgrade the level as much.
 
 ## Links

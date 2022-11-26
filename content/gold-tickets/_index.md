@@ -1,3 +1,8 @@
+---
+title: Gold Tickets
+geekdocCollapseSection: true
+---
+
 Gold Tickets (GTs) are obtained by winning the hourly raffle (enter as often as you can), or by rebuilding every 50 floors.
 
 **GTs on Stores** - A total of 6 GTs can be applied to each store:
@@ -19,7 +24,7 @@ Other Features:
 
 Floors don't need to finish construction to rebuild - as long as there is 50 floors displayed and the Rebuild button is flashing in the Menu it is safe to rebuild.
 
-Your first GT should be used on [Soda Brewery](TODO/floors#soda-brewery) if you have it, or your best store according to the top [floors list](TODO/floors#top-floors).
+Your first GT should be used on [Soda Brewery](/floors/#soda-brewery) if you have it, or your best store according to the top [floors list](/floors/#top-floors).
 
 If you rebuild or delete a GT'd floor the GT is returned to you immediately to use on another floor.  
 They accumulate and are yours forever.
@@ -51,7 +56,7 @@ If you win, a :raffle: box will appear in your tower - simply press it to collec
 * Rebuild at 50 floors for the most efficient way to get a gold ticket.
 * The first run is the hardest. Be patient and enjoy the slow cruise!
 * Don't forget to join the raffle every hour! Rebuilding is not the unique option to get a GT!
-* If you don't want your bits to be trapped in your past towers, send them to a storage tower or [give them away](TODO/online#give-away) to other players.
+* If you don't want your bits to be trapped in your past towers, send them to a storage tower or [give them away](/online/#bit-giveaways) to other players.
 
 * When you rebuild, you lose:
   * Coins

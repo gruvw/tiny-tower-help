@@ -1,3 +1,8 @@
+---
+title: VIPs
+geekdocCollapseSection: true
+---
+
 ## VIP Types
 
 Big Spender - Buy out all of a random item in a shop.  See ?tthelp bigspender
@@ -10,7 +15,7 @@ New in 4.9.0 - Exclusive VIPs purchased through the Gold Pass in the Buy More me
 Tutor - increases each bitizen's skill level by 1 on chosen floor
 Hacker - upgrades floor by 1 level
 
-## Delivery VIPs
+## Delivery VIP
 
 See also:
 ?tthelp cake
