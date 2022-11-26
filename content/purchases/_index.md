@@ -1,5 +1,3 @@
-# Purchases
-
 ## VIP Package
 
 See also: ?tthelp vip50

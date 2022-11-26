@@ -1,5 +1,3 @@
-# Floors
-
 ## Residential Apartments
 
 * The standard apartment houses 5 bits.

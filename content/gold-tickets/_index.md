@@ -1,5 +1,3 @@
-# Gold Tickets
-
 Gold Tickets (GTs) are obtained by winning the hourly raffle (enter as often as you can), or by rebuilding every 50 floors.
 
 **GTs on Stores** - A total of 6 GTs can be applied to each store:

@@ -1,5 +1,29 @@
 ---
 main:
+  - name: Getting started
+    ref: /getting-started
+    sub:
+      - name: Terminology
+        ref: /getting-started
+        anchor: terminology
+      - name: Basic Tips
+        ref: /getting-started
+        anchor: basic-tips
+      - name: Starting Tips
+        ref: /getting-started
+        anchor: starting-tips
+      - name: Links
+        ref: /getting-started
+        anchor: links
+  - name: Coins
+    ref: /coins
+    sub:
+      - name: Coin Efficiency
+        ref: /coins
+        anchor: coin-efficiency
+      - name: Coin Farming
+        ref: /coins
+        anchor: coin-farming
   - name: Bux
     ref: /bux
     # icon: "gdoc_notification"
@@ -7,4 +31,150 @@ main:
       - name: Bux Earning
         ref: /bux
         anchor: bux-earning
-# TODO
+      - name: Bux Farming
+        ref: /bux
+        anchor: bux-farming
+      - name: Bux Spending
+        ref: /bux
+        anchor: bux-spending
+      - name: Rush
+        ref: /bux
+        anchor: rush
+  - name: Gold Tickets
+    ref: /gold-tickets
+    sub:
+      - name: Raffle
+        ref: /gold-tickets
+        anchor: raffle
+      - name: Rebuilding
+        ref: /gold-tickets
+        anchor: rebuilding
+  - name: Informations
+    ref: /informations
+    sub:
+      - name: Elevator
+        ref: /informations
+        anchor: elevator
+      - name: Fireworks
+        ref: /informations
+        anchor: fireworks
+      - name: Dream Jobs
+        ref: /informations
+        anchor: dream-jobs-vs-gold-bits
+      - name: Tech Tree
+        ref: /informations
+        anchor: tech-tree
+      - name: Rent
+        ref: /informations
+        anchor: rent
+      - name: Other
+        ref: /informations
+        anchor: other
+  - name: Floors
+    ref: /floors
+    sub:
+      - name: Apartments
+        ref: /floors
+        anchor: residential-apartments
+      - name: Top Floors
+        ref: /floors
+        anchor: top-floors
+  - name: VIPs
+    ref: /vips
+    sub:
+      - name: Types
+        ref: /vips
+        anchor: vip-types
+      - name: Delivery
+        ref: /vips
+        anchor: delivery-vips
+      - name: Big Spender
+        ref: /vips
+        anchor: big-spender-vip
+  - name: Online
+    ref: /online
+    sub:
+      - name: Friends
+        ref: /online
+        anchor: friends
+      - name: Lobby codes
+        ref: /online
+        anchor: lobby-codes
+      - name: Bit Giveaways
+        ref: /online
+        anchor: bit-giveaways
+      - name: Bouncing Bits
+        ref: /online
+        anchor: bouncing-bits
+      - name: Clones
+        ref: /online
+        anchor: clones
+      - name: Storage Towers
+        ref: /online
+        anchor: storage-towers
+      - name: Gold Farm
+        ref: /online
+        anchor: gold-farm
+  - name: Cosmetics
+    ref: /cosmetics
+    sub:
+      - name: Costumes
+        ref: /cosmetics
+        anchor: costumes
+      - name: Pets
+        ref: /cosmetics
+        anchor: pets
+  - name: Side
+    ref: /side
+    sub:
+      - name: Airport
+        ref: /side
+        anchor: airport
+      - name: House
+        ref: /side
+        anchor: house
+  - name: Tricks
+    ref: /tricks
+    sub:
+      - name: Double Rent
+        ref: /tricks
+        anchor: double-rent
+      - name: Quick Visiting
+        ref: /tricks
+        anchor: quick-visiting
+      - name: VCEV
+        ref: /tricks
+        anchor: vip-cancelled-elevator-visit
+      - name: DMTFR
+        ref: /tricks
+        anchor: delivery-mission-top-floor-residential
+      - name: Time Traveling
+        ref: /tricks
+        anchor: time-traveling
+  - name: Others
+    ref: /others
+    sub:
+      - name: Multiple Towers
+        ref: /others
+        anchor: multiple-towers
+      - name: Useful Apps
+        ref: /others
+        anchor: useful-apps
+      - name: Events
+        ref: /others
+        anchor: events
+  - name: Purchases
+    ref: /purchases
+    sub:
+      - name: VIP Package
+        ref: /purchases
+        anchor: vip-package
+      - name: Booster
+        ref: /purchases
+        anchor: booster
+      - name: Piggy Bank
+        ref: /purchases
+        anchor: piggy-bank
+
+# TODO remove decoration on click/hover
+# TODO solve pagination names

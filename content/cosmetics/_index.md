@@ -1,5 +1,3 @@
-# Cosmetics
-
 ## Costumes
 
 Costumes are a great way to personalize your tower.

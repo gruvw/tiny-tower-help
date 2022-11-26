@@ -1,5 +1,3 @@
-# VIPs
-
 ## VIP Types
 
 Big Spender - Buy out all of a random item in a shop.  See ?tthelp bigspender

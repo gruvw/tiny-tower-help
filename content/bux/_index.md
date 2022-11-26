@@ -1,5 +1,3 @@
-# Bux
-
 * Dream Workers only pay their 5 bux to the first person who hired them in that job.
 * Once you get to 19, 29, 39 etc. floors, your Bux for missions and deliveries go up, maxing out when you reach 89 floors.
 * Visit friends who are active and return visits.

@@ -1,5 +1,3 @@
-# Sides
-
 ## Airport
 
 Bitish Airways

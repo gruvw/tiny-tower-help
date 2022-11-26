@@ -1,5 +1,3 @@
-# Informations
-
 ## Elevator
 
 Base Coins earned by delivering bits in Your tower: `F * (1 + G) * Y + 50`  

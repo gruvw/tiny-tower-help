@@ -1,5 +1,3 @@
-# Getting Started
-
 ## Terminology
 
 These are the terms we use:
@@ -40,7 +38,9 @@ Yes, when it's in 50% sale. It has tremendous advantages and you help NimbleBit,
 Where do I request bits?  
 In the `#requests` channel on the [Tiny Tower Discord server](https://tinyurl.com/tinytowerdiscord) or in the [spreadsheet](https://tinyurl.com/grd9wyl).
 
-## Starting tips (0 GTs)
+## Starting tips
+
+Considering 0 golden tickets.
 
 1. Register your tower through the game's cloud menu so you don't lose progress.
 2. Do the [double rent trick](TODO/tricks#double-rent).
