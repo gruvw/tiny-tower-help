@@ -7,9 +7,9 @@ geekdocCollapseSection: true
 
 There are different ways to manage multiple towers depending on the device you are using.
 
-Android - You have several options such as Samsung Secure Folder, Xiaomi Dual Apps, Parallel Space or App Cloner.
-PC - Use an emulator like Nox or Bluestacks to simulate a new Android phone.
-iOS - There is not yet a known way to use multiple towers on iOS other than using multiple devices.
+* **Android** - You have several options such as Samsung Secure Folder, Xiaomi Dual Apps, Parallel Space or App Cloner.
+* **PC** - Use an emulator like Nox or Bluestacks to simulate a new Android phone.
+* **IOS** - There is not yet a known way to use multiple towers on iOS other than using multiple devices.
 
 ## Useful Apps
 

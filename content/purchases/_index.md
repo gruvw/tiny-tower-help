@@ -5,9 +5,8 @@ geekdocCollapseSection: true
 
 ## VIP Package
 
-See also: ?tthelp vip50
-
-The game offers an in-app purchase for a VIP package. It is often available at 50% off, so if you plan on playing the game a lot it can be worth the money.
+The game offers an in-app purchase for a VIP package.  
+It is often available at 50% off, so if you plan on playing the game a lot it can be worth the money.
 
 Here are the advantages of getting the VIP Package:
 
@@ -22,7 +21,8 @@ Here are the advantages of getting the VIP Package:
 
 ### VIP 50% Off
 
-NimbleBit offers the VIP Package at a 50% discount when you start a new tower, during the VIP trial, and at random times during the year. If you missed one of these chances to buy it at 50% off, you can force the sale.
+NimbleBit offers the VIP Package at a 50% discount when you start a new tower, during the VIP trial, and at random times during the year.  
+If you missed one of these chances to buy it at 50% off, you can force the sale.
 
 * Be sure you have synced your tower to the cloud with an email address.
 * Clean the TT cache (for some devices this means deleting the app).
@@ -34,7 +34,8 @@ NimbleBit offers the VIP Package at a 50% discount when you start a new tower, d
 
 ### Unlimited VIP
 
-When managing more than one tower, you don't have to buy the VIP package on each device. You can buy the VIP package once and then share it across your devices that use the same Play Store/AppStore ID.
+When managing more than one tower, you don't have to buy the VIP package on each device.  
+You can buy the VIP package once and then share it across your devices that use the same Play Store/AppStore ID.
 
 * Buy the VIP on your main tower linked to your main email (email1) on Play Store/AppStore account.
 * Save the second tower in the cloud (email2).
@@ -45,17 +46,20 @@ When managing more than one tower, you don't have to buy the VIP package on each
 * When it says restore purchase, click on it.
 
 Your VIP should be active on both towers!
-Note:  You cannot transfer the purchase of VIP between stores (Apple/Play).
-Note:  Once a tower has VIP, the tower can be moved between platforms (iOS/Android)
+
+Note: You cannot transfer the purchase of VIP between stores (Apple/Play).
+Note: Once a tower has VIP, the tower can be moved between platforms (iOS/Android).
 
 ## Booster
 
-The boosts have been around since v4.4.0 (May 2022) and can be found in the Buy More menu.  The description on each can be found by pressing the i on the desired one.
+The boosts have been around since v4.4.0 (May 2022) and can be found in the Buy More menu.  
+The description on each can be found by pressing the `i` on the desired one.
 
-The three boosts are:
-🔵  Supply Chain Booster - instant resupply of first 5 floors for 8 hours (blue timer on screen)
-🟢  Tax Bonus Booster - 20% more coins for 8 hours (green timer on screen)
-🔴  Sales Booster - triple coins from the elevator for 1 hour (red timer on screen)
+The three boosts are:  
+
+* 🔵 Supply Chain Booster - instant resupply of first 5 floors for 8 hours (blue timer on screen)
+* 🟢 Tax Bonus Booster - 20% more coins for 8 hours (green timer on screen)
+* 🔴 Sales Booster - triple coins from the elevator for 1 hour (red timer on screen)
 
 ## Piggy Bank
 
