@@ -45,7 +45,7 @@ Besides selling stock in your stores, delivering bits in your elevator, or colle
 Coin farms are tall towers that ideally have an elevator speed of 10.  
 The taller the tower, the more coins you can get each time you visit them since you'll earn coins based on this formula: `F * T + 50` where `F = destination floor number` and `T = their elevator speed (FPS)`.
 
-For the first few floors after the tutorial, earning a few thousand coins is pretty helpful, so visiting people like Jartwobs (KMSF) with >2660 floors can be very helpful.  
+For the first few floors after the tutorial, earning a few thousand coins is pretty helpful, so visiting people like Jartwobs (`KMSF`) with >2660 floors can be very helpful.  
 You can delete and re-add the friend to visit them multiple times!! (although they will receive only 1-2 visits in a day).  
 If you get a low floor and are fast enough, you can click the X to cancel the visit and try again for a higher floor.  
 For a list of more tall towers, check out the Farms tab in the spreadsheet!
