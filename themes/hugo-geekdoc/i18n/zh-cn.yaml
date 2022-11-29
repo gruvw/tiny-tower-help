@@ -32,7 +32,7 @@ posts_update_prefix: 更新时间
 posts_count:
   one: 一篇文章
   other: "{{ . }} 个帖子"
-posts_tagged_with: 所有带有“{{ . }}”标签的帖子。
+posts_tagged_with: 所有带有"{{ . }}"标签的帖子。
 
 footer_build_with: >
   基于 <a href="https://gohugo.io/" class="gdoc-footer__link">Hugo</a>
