@@ -177,5 +177,4 @@ main:
         ref: /purchases
         anchor: piggy-bank
 
-# TODO remove decoration on click/hover
-# TODO solve pagination names
+# TODO landing page
