@@ -1,0 +1,6 @@
+---
+more:
+  - name: "View Source"
+    ref: "https://github.com/gruvw/tiny-tower-help"
+    external: true
+    icon: "gdoc_github"
